@@ -1,0 +1,1 @@
+This workshop was conducted for the Women in Data Science (WiDS), Austin meet up on Oct 20th. My classmate Valerie and I held the session until regularization in the ipython notebook ( for more details please refer to the PDF version of our power point presentation )
